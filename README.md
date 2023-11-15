@@ -1,8 +1,8 @@
 <h1 align="center">DevCafe ☕️</h1>
 
-<center> 
+<div align="center"> 
  <img src="https://postfiles.pstatic.net/MjAyMzExMTVfMTMg/MDAxNzAwMDE5NDQwOTQx.2SDpLn3Kkxsx04ZWQ62gtltmMI3DaJUE-O9b4akkaoIg.ZCuuumag_P1kfPigvHcZ5i58CNF1tjkJpE8GVCzMMrEg.PNG.kimjieun121314/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.png?type=w773"/>
-</center>
+</div>
 
 
 > [플레이 데이터] 한화시스템 BEYOND SW캠프 / DEVCafe
