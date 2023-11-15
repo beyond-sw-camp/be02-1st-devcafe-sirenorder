@@ -1,8 +1,10 @@
 <h1 align="center">DevCafe 👍</h1>
 
 
-<center>
-    <img src="[C:\Users\Playdata\Downloads\제목을-입력해주세요_-001.png](https://files.slack.com/files-tmb/T060QUK53HS-F065L2BP71C-5747cd7962/_________-___________________-001_720.png)"  style="zoom:76%;" align="center"/>
+<center> 
+    
+ <img src="https://postfiles.pstatic.net/MjAyMzExMTVfMTMg/MDAxNzAwMDE5NDQwOTQx.2SDpLn3Kkxsx04ZWQ62gtltmMI3DaJUE-O9b4akkaoIg.ZCuuumag_P1kfPigvHcZ5i58CNF1tjkJpE8GVCzMMrEg.PNG.kimjieun121314/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.png?type=w773"/>
+
 </center>
 
 
