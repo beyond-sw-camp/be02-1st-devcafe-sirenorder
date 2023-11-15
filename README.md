@@ -1,4 +1,4 @@
-<h1 align="center">DevCafe 👍</h1>
+<h1 align="center">DevCafe ☕️</h1>
 
 <center> 
  <img src="https://postfiles.pstatic.net/MjAyMzExMTVfMTMg/MDAxNzAwMDE5NDQwOTQx.2SDpLn3Kkxsx04ZWQ62gtltmMI3DaJUE-O9b4akkaoIg.ZCuuumag_P1kfPigvHcZ5i58CNF1tjkJpE8GVCzMMrEg.PNG.kimjieun121314/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.png?type=w773"/>
@@ -28,7 +28,7 @@
 취소가 어려운 사이렌 오더의 단점을 최소화 하고 재주문을
 편리하게 할 수 있는 페이지를 만들어 기존의 사이렌 오더와 차별화를 시도하였음.
 ```
-## 프로젝트 시나리오
+## 📃 프로젝트 시나리오
 ```sh
 1. 사용자 요구사항:
 - 주문 기능:사용자는 메뉴에서 음료 및 음식을 선택하고 주문할 수 있어야 합니다.
@@ -82,5 +82,5 @@ JWT를 이용한 토큰 인증 방식
 
 ## 🤼‍♂️팀원
 
-팀장 : 김도현
+팀장 : 김도현  
 팀원 : 김지은, 김주연, 김준엽
