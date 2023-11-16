@@ -128,7 +128,7 @@
 ### 1. 사용자 회원 가입 및 로그인 기능(토큰 인증 방식)
 
 <center>
-    <img src="./img/pic2.png" />
+    <img src="ERD1.png" />
 </center>
 JWT를 이용한 토큰 인증 방식
 
