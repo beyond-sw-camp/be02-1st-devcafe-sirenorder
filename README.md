@@ -128,7 +128,7 @@
 ### 1. Relation Schema
 
 <center>
-    <img src="./lmg/수정1.drawio.png"/>
+    <img src="./수정1.drawio.png" />
 </center>
 
 
