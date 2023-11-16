@@ -123,7 +123,7 @@
 ### 1. Relation Schema
 
 <center>
-    <img src="./수정1.drawio.png" />
+    <img src="./Schema.png" />
 </center>
 
 
