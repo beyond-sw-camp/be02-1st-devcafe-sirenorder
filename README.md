@@ -128,7 +128,7 @@
 ### 1. Relation Schema
 
 <center>
-    <img src=""C:\Users\Playdata\Downloads\수정1.drawio.png""/>
+    <img src="C:\Users\Playdata\Downloads\수정1.drawio.png"/>
 </center>
 
 
