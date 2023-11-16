@@ -132,7 +132,7 @@
 ### 2. ERD
 
 <center>
-    <img src="./ERD.png" />
+    <img src="./ERD(fin).png" />
 </center>
 
 <br>
