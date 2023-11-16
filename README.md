@@ -128,7 +128,7 @@
 ### 1. Relation Schema
 
 <center>
-    <img src="RS.png"/>
+    <img src="RS(1).png"/>
 </center>
 
 
