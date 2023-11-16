@@ -129,12 +129,11 @@
 
 <br>
 
-### 2. 게시판 기능
+### 2. ERD
 
 <center>
-    <img src="./img/pic1.png" />
+    <img src="./ERD.png" />
 </center>
-어떤 어떤 어떤 걸 작성하는 게시판 기능
 
 <br>
 
