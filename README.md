@@ -125,10 +125,10 @@
 
 ## 🔍 Overview
 
-### 1. ERD 
+### 1. Relation Schema
 
 <center>
-    <img src="ERD1.png" />
+    <img src="RS.png" />
 </center>
 
 
