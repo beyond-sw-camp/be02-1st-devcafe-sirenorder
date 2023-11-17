@@ -150,7 +150,7 @@
 ### 4. 서버 상태
 
 <center>
-    <img src="./______________1_720.png" />
+    <img src="./server status.png" />
 </center>
 
 
@@ -160,7 +160,7 @@
 ### 5. Workbench 연결, 서버 확인
 
 <center>
-    <img src="./___________________________________360.gif" />
+    <img src="./connection workbench.gif" />
 </center>
 
 
@@ -170,7 +170,7 @@
 ### 6. DB2 적용 확인
 
 <center>
-    <img src="./db2_______________360.gif" />
+    <img src="./DB2 check.gif" />
 </center>
 
 
@@ -180,7 +180,7 @@
 ### 7. 서버 다운 후 두번째 서버
 
 <center>
-    <img src="./workbench________________________360.gif" />
+    <img src="./second server.gif" />
 </center>
 
 
