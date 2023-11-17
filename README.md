@@ -137,6 +137,45 @@
 
 <br>
 
+### 3. 서버 상태
+
+<center>
+    <img src="./______________1_720.png" />
+</center>
+
+
+
+<br>
+
+### 4. Workbench 연결, 서버 확인
+
+<center>
+    <img src="./___________________________________360.gif" />
+</center>
+
+
+
+<br>
+
+### 5. DB2 적용 확인
+
+<center>
+    <img src="./db2_______________360.gif" />
+</center>
+
+
+
+<br>
+
+### 6. 서버 다운 후 두번째 서버
+
+<center>
+    <img src="./workbench________________________360.gif" />
+</center>
+
+
+
+<br>
 
 ## System Architecture
 
