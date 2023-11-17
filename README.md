@@ -180,7 +180,7 @@
 ## System Architecture
 
 <center>
-    <img src="./img/pic2.png" />
+    <img src="시스템아키텍쳐_1.png" />
 </center>
 대용량 트래픽을 고려한 서버 이중화
 
